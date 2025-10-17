@@ -1,15 +1,30 @@
-# React + Vite
+ 🚀 Docs Card – React + Vite + Tailwind CSS + GSAP + Framer Motion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Preview: 🔗 [https://docs-card1.netlify.app/](https://docs-card1.netlify.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖥️ Project Overview
 
-## Expanding the ESLint configuration
+This is a modern and animated **React project** built using **Vite**, **Tailwind CSS**, **GSAP**, and **Framer Motion**.  
+It displays elegant draggable document cards with smooth animations, clean UI, and fully responsive design.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
 
+## 🧩 Tech Stack
 
-live preview  https://docs-card1.netlify.app/
+- ⚛️ **React + Vite** – Super fast development and build tool  
+- 🎨 **Tailwind CSS** – For modern, utility-first styling  
+- 🌀 **Framer Motion** – Smooth and easy animations  
+- ⚡ **GSAP (GreenSock)** – Advanced motion animations  
+- 💎 **React Icons** – Beautiful icons for UI  
+
+---
+
+## 🧰 Installation & Setup
+
+Follow these steps to run the project locally 👇
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/<your-username>/<your-repo-name>.git   ye accha hai # * hata ke do is mein se accha ni lagta hai ye
